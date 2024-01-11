@@ -1,0 +1,17 @@
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\bin\Debug\net8.0\AgencyTask.DAL.deps.json
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\bin\Debug\net8.0\AgencyTask.DAL.runtimeconfig.json
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\bin\Debug\net8.0\AgencyTask.DAL.dll
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\bin\Debug\net8.0\AgencyTask.DAL.pdb
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\bin\Debug\net8.0\AgencyTask.Core.dll
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\bin\Debug\net8.0\AgencyTask.Core.pdb
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\obj\Debug\net8.0\AgencyTask.DAL.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\obj\Debug\net8.0\AgencyTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\obj\Debug\net8.0\AgencyTask.DAL.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\obj\Debug\net8.0\AgencyTask.DAL.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\obj\Debug\net8.0\AgencyTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\obj\Debug\net8.0\AgencyTask.DAL.csproj.CopyComplete
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\obj\Debug\net8.0\AgencyTask.DAL.dll
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\obj\Debug\net8.0\refint\AgencyTask.DAL.dll
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\obj\Debug\net8.0\AgencyTask.DAL.pdb
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\obj\Debug\net8.0\AgencyTask.DAL.genruntimeconfig.cache
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.DAL\obj\Debug\net8.0\ref\AgencyTask.DAL.dll

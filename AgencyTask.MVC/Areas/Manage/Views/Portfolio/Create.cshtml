@@ -1,0 +1,25 @@
+﻿@using AgencyTask.Business.ViewModels.PortfolioVms
+@using AgencyTask.Core.Entities
+@model CreatePortfolioVm
+
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label">Portfolio Title</label>
+        <input asp-for="Title" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="HtmlBody" class="form-label">Html Body</label>
+        <textarea asp-for="HtmlBody" class="form-control" rows="5"></textarea>
+    </div>
+    <div class="mb-3">
+        <label asp-for="CoverImageFile" class="form-label">Cover Image</label>
+        <input asp-for="CoverImageFile" class="form-control" type="file">
+    </div>
+    <div class="mb-3">
+        <label asp-for="MainImageFile" class="form-label">Main Image</label>
+        <input asp-for="MainImageFile" class="form-control" type="file">
+    </div>
+    <select class="form-select" asp-for="CategoryIds" asp-items="new SelectList(ViewBag.Categories, nameof(Category.Id), nameof(Category.Name))" multiple>
+    </select>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

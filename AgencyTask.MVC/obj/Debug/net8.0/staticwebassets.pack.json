@@ -1,0 +1,617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AgencyTask.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AgencyTask.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\Admin\\vendor\\fontawesome-free\\package.json",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fontawesome-free\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\Upload\\3c317581-9440-4334-9dfd-6c4db53af92bCoverImageFile",
+      "PackagePath": "staticwebassets\\Upload"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\Upload\\d4dba5ca-f67b-4866-99c3-0717d9ee72a5MainImageFile",
+      "PackagePath": "staticwebassets\\Upload"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\Upload\\d8aa109b-8da7-43b8-a8de-96b992d434efMainImageFile",
+      "PackagePath": "staticwebassets\\Upload"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\Upload\\ee0d2eff-1335-46f3-a3d0-22c2c05af9a3CoverImageFile",
+      "PackagePath": "staticwebassets\\Upload"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\css\\agency.css",
+      "PackagePath": "staticwebassets\\css\\agency.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\css\\agency.min.css",
+      "PackagePath": "staticwebassets\\css\\agency.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\gulpfile.js",
+      "PackagePath": "staticwebassets\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\logos\\creative-market.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\creative-market.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\logos\\designmodo.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\designmodo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\logos\\envato.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\envato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\logos\\themeforest.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\themeforest.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\map-image.png",
+      "PackagePath": "staticwebassets\\img\\map-image.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\portfolio\\dreams-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\dreams-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\portfolio\\dreams.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\dreams.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\portfolio\\escape-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\escape-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\portfolio\\escape.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\escape.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\portfolio\\golden-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\golden-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\portfolio\\golden.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\golden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\portfolio\\roundicons-free.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\roundicons-free.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\portfolio\\roundicons.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\roundicons.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\portfolio\\startup-framework-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\startup-framework-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\portfolio\\startup-framework.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\startup-framework.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\portfolio\\treehouse-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\treehouse-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\portfolio\\treehouse.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\treehouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\js\\agency.js",
+      "PackagePath": "staticwebassets\\js\\agency.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\js\\agency.min.js",
+      "PackagePath": "staticwebassets\\js\\agency.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\js\\contact_me.js",
+      "PackagePath": "staticwebassets\\js\\contact_me.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\js\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\js\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\less\\agency.less",
+      "PackagePath": "staticwebassets\\less\\agency.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\less\\variables.less",
+      "PackagePath": "staticwebassets\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\mail\\contact_me.php",
+      "PackagePath": "staticwebassets\\mail\\contact_me.php"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\scss\\agency.scss",
+      "PackagePath": "staticwebassets\\scss\\agency.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\AgencyTask\\AgencyTask.MVC\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AgencyTask.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AgencyTask.MVC.props",
+      "PackagePath": "build\\AgencyTask.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AgencyTask.MVC.props",
+      "PackagePath": "buildMultiTargeting\\AgencyTask.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AgencyTask.MVC.props",
+      "PackagePath": "buildTransitive\\AgencyTask.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

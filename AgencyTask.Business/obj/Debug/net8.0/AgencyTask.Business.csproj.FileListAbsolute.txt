@@ -1,0 +1,17 @@
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\bin\Debug\net8.0\AgencyTask.Business.deps.json
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\bin\Debug\net8.0\AgencyTask.Business.dll
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\bin\Debug\net8.0\AgencyTask.Business.pdb
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\bin\Debug\net8.0\AgencyTask.Core.dll
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\bin\Debug\net8.0\AgencyTask.DAL.dll
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\bin\Debug\net8.0\AgencyTask.DAL.pdb
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\bin\Debug\net8.0\AgencyTask.Core.pdb
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\obj\Debug\net8.0\AgencyTask.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\obj\Debug\net8.0\AgencyTask.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\obj\Debug\net8.0\AgencyTask.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\obj\Debug\net8.0\AgencyTask.Business.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\obj\Debug\net8.0\AgencyTask.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\obj\Debug\net8.0\AgencyTask.Business.csproj.CopyComplete
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\obj\Debug\net8.0\AgencyTask.Business.dll
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\obj\Debug\net8.0\refint\AgencyTask.Business.dll
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\obj\Debug\net8.0\AgencyTask.Business.pdb
+C:\Users\II novbe\source\repos\AgencyTask\AgencyTask.Business\obj\Debug\net8.0\ref\AgencyTask.Business.dll
